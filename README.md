@@ -1,0 +1,1 @@
+The homepage UI of the Playboi Fashion shopping app features a sleek and elegant design with a white and black theme. A bottom navigation bar provides quick access to Home, Categories, and Profile, while a top search bar and icons for cart, favorites and search products enhance usability. The main section showcases featured categories and brand selection.
